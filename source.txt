@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=nxxl2H_TOTc&list=PLMWjeRChIK6bnp6qaS3rxLGCpc9aQY
 4// add Flow
 https://www.youtube.com/watch?v=ZDFqFEiHQGs&list=PLoezkgQNtE_fOl3kUGE7nUVUyoRWBGRod&index=1
 
+Other
+https://medium.com/@sgroff04/configure-eslint-prettier-and-flow-in-vs-code-for-react-development-c9d95db07213
