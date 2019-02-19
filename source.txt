@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=ZDFqFEiHQGs&list=PLoezkgQNtE_fOl3kUGE7nUVUyoRWBG
 
 Other
 https://medium.com/@sgroff04/configure-eslint-prettier-and-flow-in-vs-code-for-react-development-c9d95db07213
+
+
+https://blog.echobind.com/integrating-prettier-eslint-airbnb-style-guide-in-vscode-47f07b5d7d6a
